@@ -1,1 +1,3 @@
-### CV Markdown [https://your-github-account.github.io/rsschool-cv/cv](https://your-github-account.github.io/rsschool-cv/cv)
+### CV Markdown [https://zurriyotbek-N.github.io/rsschool-cv/cv](https://zurriyotbek-N.github.io/rsschool-cv/cv)
+
+### CV Html/Css [https://zurriyotbek-N.github.io/rsschool-cv/](https://zurriyotbek-N.github.io/rsschool-cv/)
